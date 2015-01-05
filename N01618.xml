@@ -115,8 +115,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:001921_0000_0FBA1C9F408B2518"/>
-            <pb facs="tcp:001921_0001_0FBA1C9DC35A1FB0"/>
+            <pb facs="unknown:001921_0000_0FBA1C9F408B2518"/>
+            <pb facs="unknown:001921_0001_0FBA1C9DC35A1FB0"/>
             <p>A CATALOGUE Of Curious and Valuable BOOKS, Belonging to the late Reverend &amp; Learned, Mr. <hi>Ebenezer Pemberton,</hi> Consisting of <hi>Divinity, Philosophy, History, Poetry,</hi> &amp;c. generally well Bound.</p>
             <p>To be SOLD by Auction, At the Crown Coffee-House in <hi>Boston,</hi> the Second Day of <hi>July</hi> 1717. Beginning at Three a Clock afternoon, and so, <hi>De Die in Diem,</hi> until the whole be Sold. Also a valuable Collection of Pamphlets will then be exposed to Sale.</p>
             <p>The BOOKS may be viewed from the 25th Day of <hi>June,</hi> until the Day of Sale, at the House of the late Reverend Mr. <hi>Pemberton,</hi> where Attendance will be given.</p>
@@ -124,7 +124,7 @@
                <hi>BOSTON:</hi> Printed by <hi>B. Green</hi> and may be had <hi>Gratis,</hi> at the Shop of <hi>Samuel</hi> Gerrish, Bookseller, near the Old Meeting-House in <hi>Boston.</hi> 1717.</p>
          </div>
          <div type="conditions_of_sale">
-            <pb facs="tcp:001921_0002_0FBA1CA25669C330"/>
+            <pb facs="unknown:001921_0002_0FBA1CA25669C330"/>
             <head>The Conditions of the Sale.</head>
             <p n="1">
                <hi>I.</hi> If any difference arise con<g ref="char:EOLhyphen"/>cerning any Book Sold, it shall be immediately Expo<g ref="char:EOLhyphen"/>sed to Sale again.</p>
@@ -134,7 +134,7 @@
       </front>
       <body>
          <div type="book_auction_catalogue">
-            <pb n="1" facs="tcp:001921_0003_0FBA1CA48D7F9CB8"/>
+            <pb n="1" facs="unknown:001921_0003_0FBA1CA48D7F9CB8"/>
             <head>A Catalogue of BOOKS.</head>
             <div type="format">
                <head>
@@ -247,7 +247,7 @@
                   </list>
                </div>
                <div n="6" type="lot">
-                  <pb n="2" facs="tcp:001921_0004_0FBA1CA732C78300"/>
+                  <pb n="2" facs="unknown:001921_0004_0FBA1CA732C78300"/>
                   <list>
                      <head>
                         <hi>No.</hi> 6.</head>
@@ -299,7 +299,7 @@
                      <item>64 Byfield on Peter.</item>
                      <item>65 Richardson on the Old Testament.</item>
                      <item>
-                        <pb n="3" facs="tcp:001921_0005_0FBA315ED36370A0"/>66 Davenant on Colosians.</item>
+                        <pb n="3" facs="unknown:001921_0005_0FBA315ED36370A0"/>66 Davenant on Colosians.</item>
                      <item>67 Lightfoots Harmony of the New Testament</item>
                      <item>68 Dixon on the Epistles.</item>
                      <item>69 Caspari Waseri on Isaiah.</item>
@@ -356,7 +356,7 @@
                </div>
                <div n="11" type="lot">
                   <list>
-                     <pb n="4" facs="tcp:001921_0006_0FBA3161D54B3F88"/>
+                     <pb n="4" facs="unknown:001921_0006_0FBA3161D54B3F88"/>
                      <head>
                         <hi>No.</hi> 11.</head>
                      <item>104 Leigh's Critica Sacra.</item>
@@ -417,7 +417,7 @@
                         <hi>No.</hi> 14.</head>
                      <item>138 Ciceronis Operum Tomus Tertius.</item>
                      <item>
-                        <pb n="5" facs="tcp:001921_0007_0FBA31639E5559B0"/>139 Caussins Holy Court.</item>
+                        <pb n="5" facs="unknown:001921_0007_0FBA31639E5559B0"/>139 Caussins Holy Court.</item>
                      <item>140 Petri Martyris loci Communes.</item>
                      <item>141 Strong of the 2 Covenants.</item>
                      <item>142 Clarkes Lives of Eminent persons.</item>
@@ -487,7 +487,7 @@
                      <item>12 An English Exposition of the Roman Antiquities.</item>
                      <item>13 Des Cartes de Homine.</item>
                      <item>
-                        <pb n="6" facs="tcp:001921_0008_0FBA31658CD82988"/>14 Lightfoot Horae Hebraicae in Epistol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <pb n="6" facs="unknown:001921_0008_0FBA31658CD82988"/>14 Lightfoot Horae Hebraicae in Epistol<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>m ad Corinthios.</item>
                      <item>15 Jacksons Annotations on Job, Psalms, Proverbs, <hi>&amp;c.</hi>
@@ -548,7 +548,7 @@
                         <hi>No.</hi> 19.</head>
                      <item>50 Voesii Politicae Ecclesiasticae, 4 Vol.</item>
                      <item>
-                        <pb n="7" facs="tcp:001921_0009_0FBA316754AF6900"/>
+                        <pb n="7" facs="unknown:001921_0009_0FBA316754AF6900"/>
                         <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>1 Gerardi Exercitationes Rationales.</item>
@@ -607,7 +607,7 @@
                      </item>
                      <item>
                         <pb n="8"
-                            facs="tcp:001921_0010_0FBA316A610A7348"
+                            facs="unknown:001921_0010_0FBA316A610A7348"
                             rendition="simple:additions"/>89 Legrand's Philosophy.</item>
                      <item>90 Miscellanies.</item>
                      <item>91 Kettlewells Measure of Christian Obedience.</item>
@@ -653,7 +653,7 @@
                      <item>125 Squire on Thessalonians.</item>
                      <item>126 Alstedii Theologia.</item>
                      <item>
-                        <pb n="9" facs="tcp:001921_0011_0FBA316D3895A820"/>127 Maccovii Theologia.</item>
+                        <pb n="9" facs="unknown:001921_0011_0FBA316D3895A820"/>127 Maccovii Theologia.</item>
                      <item>128 Brown of Justification.</item>
                      <item>129 Alstedii Theologia Catechetica.</item>
                      <item>130 Alstedii Theologia Casuistica.</item>
@@ -707,7 +707,7 @@
             </div>
             <div type="format">
                <pb n="10"
-                   facs="tcp:001921_0012_0FBA317276FFC1F8"
+                   facs="unknown:001921_0012_0FBA317276FFC1F8"
                    rendition="simple:additions"/>
                <head>
                   <hi>BOOKS in Octavo,</hi> &amp;c.</head>
@@ -761,7 +761,7 @@
                   </list>
                </div>
                <div n="24" type="lot">
-                  <pb n="11" facs="tcp:001921_0013_0FBA31752D7C0330"/>
+                  <pb n="11" facs="unknown:001921_0013_0FBA31752D7C0330"/>
                   <list>
                      <head>
                         <hi>No.</hi> 24.</head>
@@ -821,7 +821,7 @@
                         </gap>.</item>
                      <item>
                         <pb n="12"
-                            facs="tcp:001921_0014_0FBA3176D50FFF90"
+                            facs="unknown:001921_0014_0FBA3176D50FFF90"
                             rendition="simple:additions"/>69 Polydorus Virgilus.</item>
                      <item>70 Samway's Devotion digested.</item>
                      <item>71 Leach's Trained Soldier.</item>
@@ -863,7 +863,7 @@
                      <item>101 Powel's Salve for Soul Sores.</item>
                      <item>102 Loveday's Letters.</item>
                      <item>
-                        <pb n="13" facs="tcp:001921_0015_0FBA317B72DC5AF0"/>103 Ciceronis Philosophicorum, pars prima.</item>
+                        <pb n="13" facs="unknown:001921_0015_0FBA317B72DC5AF0"/>103 Ciceronis Philosophicorum, pars prima.</item>
                      <item>104 Heming on Ephesians.</item>
                      <item>105 Commentaria Practica, a Thoma Cartrighto.</item>
                      <item>106 A Key of Knowlege, for the opening of St. Johns My<g ref="char:EOLhyphen"/>stical Revelation, by R. Bernard.</item>
@@ -917,7 +917,7 @@
                         </gap>man</item>
                      <item>
                         <pb n="14"
-                            facs="tcp:001921_0016_0FBA317D1C12B4E0"
+                            facs="unknown:001921_0016_0FBA317D1C12B4E0"
                             rendition="simple:additions"/>139 Discursus Logicus, per H. Gutberleth.</item>
                      <item>140 God's Terrible Voice in the City, by T. Vincent.</item>
                      <item>141 The Pagans Debt and Dowry, &amp;c.</item>
@@ -979,7 +979,7 @@
                            <desc>••</desc>
                         </gap>emii Oratio.</item>
                      <item>
-                        <pb n="15" facs="tcp:001921_0017_0FBA3181D377AC50"/>176 Grotius's Defence of the Catholick Faith.</item>
+                        <pb n="15" facs="unknown:001921_0017_0FBA3181D377AC50"/>176 Grotius's Defence of the Catholick Faith.</item>
                      <item>177 Coles's Discourse of Gods Sovereignty.</item>
                      <item>178 Aristotles Rhetorick.</item>
                      <item>179 Riverii Observationes Medicae.</item>
@@ -1049,7 +1049,7 @@
                         </gap>
                      </item>
                      <item>
-                        <pb n="16" facs="tcp:001921_0018_0FBA318444C2A4A8"/>214 Whitaker de Peccato Originali.</item>
+                        <pb n="16" facs="unknown:001921_0018_0FBA318444C2A4A8"/>214 Whitaker de Peccato Originali.</item>
                      <item>215 Purnel<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>s No Power but of God.</item>
@@ -1106,7 +1106,7 @@
                         </gap>a.</item>
                      <item>
                         <pb n="17"
-                            facs="tcp:001921_0019_0FBA318680014C08"
+                            facs="unknown:001921_0019_0FBA318680014C08"
                             rendition="simple:additions"/>252 Erasmus Linguae de Usu et Abusu.</item>
                      <item>253 De pace Ecclesiasticae Sententiae Quatuor.</item>
                      <item>254 Erasmi Flores.</item>
@@ -1168,7 +1168,7 @@
                         </gap> Dialecticum.</item>
                      <item>
                         <pb n="18"
-                            facs="tcp:001921_0020_0FBA3187553DF918"
+                            facs="unknown:001921_0020_0FBA3187553DF918"
                             rendition="simple:additions"/>290 Parker's Philosophical Essays.</item>
                      <item>291 Savage's Rome's Conviction.</item>
                   </list>
@@ -1217,7 +1217,7 @@
                            <desc>•••</desc>
                         </gap> Stoddard's Appeal to the Learned.</item>
                      <item>
-                        <pb n="19" facs="tcp:001921_0021_0FBA318AE791F1A0"/>328 Hale of Witchcraft.</item>
+                        <pb n="19" facs="unknown:001921_0021_0FBA318AE791F1A0"/>328 Hale of Witchcraft.</item>
                      <item>329 Wadsworth's Publick Worship a Christians Duty.</item>
                      <item>330 A Narrative of the Massachusets Colony.</item>
                      <item>331 Meditationes Vitae Christi.</item>
@@ -1281,7 +1281,7 @@
                         <hi>No.</hi> 34.</head>
                      <item>365 Pope of the loving kindness of God.</item>
                      <item>
-                        <pb n="20" facs="tcp:001921_0022_0FBA318BDC7B7160"/>366 Arch-bishop Sharps Sermons.</item>
+                        <pb n="20" facs="unknown:001921_0022_0FBA318BDC7B7160"/>366 Arch-bishop Sharps Sermons.</item>
                      <item>367 Dr. Connant's Sermons<g ref="char:punc">▪</g> Preach'd at <abbr>Esq</abbr> Boyles Lectures.</item>
                      <item>368 — Sermons the 4th Vol.</item>
                      <item>369 — Sermons, 5th Vol.</item>
@@ -1382,7 +1382,7 @@
                         </gap>
                      </item>
                      <item>
-                        <pb n="21" facs="tcp:001921_0023_0FBA318E6ED4B560"/>4<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <pb n="21" facs="unknown:001921_0023_0FBA318E6ED4B560"/>4<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>1 Winter Evening Conferences.</item>
                      <item>402 The Living Temple, by J How, in 2 Vol.</item>
@@ -1456,7 +1456,7 @@
                         </gap>gn.</item>
                      <item>435 The Generation of Seekers.</item>
                      <item>
-                        <pb n="22" facs="tcp:001921_0024_0FBA318FD7A1F510"/>436 <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <pb n="22" facs="unknown:001921_0024_0FBA318FD7A1F510"/>436 <gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
                         </gap>rrow's Sermons on several Occasions.</item>
                      <item>437 Wilson's Discourse of the Resurrection.</item>
@@ -1526,7 +1526,7 @@
                      <item>472 Gastrel's Certainty of the Christian Revelation.</item>
                      <item>473 Edward's Discourse of Truth and Error.</item>
                      <item>
-                        <pb n="23" facs="tcp:001921_0025_0FBA31928BBCCA90"/>474 Jenkin of the Christian Religion, 2 Vol.</item>
+                        <pb n="23" facs="unknown:001921_0025_0FBA31928BBCCA90"/>474 Jenkin of the Christian Religion, 2 Vol.</item>
                      <item>475 Huetii Demonstratio Evangeli<gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
                         </gap>, 2 Vol.</item>
@@ -1585,7 +1585,7 @@
                      <item>508 Greek and Roman History.</item>
                      <item>509 Norris's Letters.</item>
                      <item>
-                        <pb n="24" facs="tcp:001921_0026_0FBA31979D9009F8"/>
+                        <pb n="24" facs="unknown:001921_0026_0FBA31979D9009F8"/>
                         <gap reason="illegible" resp="#PDCC" extent="1 span">
                            <desc>〈…〉</desc>
                         </gap>, 3 Parts, in 2 Vol.</item>
@@ -1668,7 +1668,7 @@
                   </list>
                </div>
                <div n="42" type="lot">
-                  <pb n="25" facs="tcp:001921_0027_0FBA3199502214C8"/>
+                  <pb n="25" facs="unknown:001921_0027_0FBA3199502214C8"/>
                   <list>
                      <head>
                         <hi>No.</hi> 42.</head>
@@ -1717,7 +1717,7 @@
                   </list>
                </div>
                <div n="43" type="lot">
-                  <pb n="26" facs="tcp:001921_0028_0FBA319ACCAD0690"/>
+                  <pb n="26" facs="unknown:001921_0028_0FBA319ACCAD0690"/>
                   <list>
                      <head>
                         <hi>No.</hi> 43.</head>
@@ -1767,7 +1767,7 @@
                      <item>618 Ignoramus.</item>
                      <item>619 England's Vanity.</item>
                      <item>
-                        <pb n="27" facs="tcp:001921_0029_0FBA319CD0478AA0"/>6<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <pb n="27" facs="unknown:001921_0029_0FBA319CD0478AA0"/>6<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>0 Hotchkis of Forgiveness of Sin.</item>
                      <item>621 Peripate<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1839,7 +1839,7 @@
                            <desc>•</desc>
                         </gap>n and Instigations to the Duty of Prayer</item>
                      <item>
-                        <pb n="28" facs="tcp:001921_0030_0FBA319DCF02F0F8"/>
+                        <pb n="28" facs="unknown:001921_0030_0FBA319DCF02F0F8"/>
                         <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>62 <gap reason="illegible" resp="#PDCC" extent="1 span">
